@@ -1,4 +1,4 @@
-[![Header](https://github.com/eduardo-salinas/eduardo-salinas/blob/main/profile.jpg)]()
+[![Header](https://github.com/eduardo-salinas/eduardo-salinas/blob/main/profile.jpg)](https://github.com/eduardo-salinas)
 
 
 
