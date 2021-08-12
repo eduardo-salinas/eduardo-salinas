@@ -8,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
+[![Portfolio](https://img.shields.io/website?style=plastic&up_color=red&url=https%3A%2F%2Feduardo-salinas.com%2F)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/salinas-eduardo/)
 <!-- [![eduardo-salinas.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/) -->
 
