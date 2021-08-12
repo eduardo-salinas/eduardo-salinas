@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eduardo-salinas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/salinas-eduardo/)
 <!-- [![eduardo-salinas.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/) -->
 
