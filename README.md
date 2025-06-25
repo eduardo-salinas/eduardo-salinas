@@ -1,16 +1,22 @@
 [![Header](https://github.com/eduardo-salinas/eduardo-salinas/blob/main/profile.jpg)](https://eduardo-salinas.com/)
 
-<h1 align= "center"><b>Hello World! 👋 I'm Eduardo Salinas</b></h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center"><b>Hello World! 👋 I'm Eduardo Salinas</b></h1>
+<h3 align="center">Software Engineer | Backend-Focused Full Stack Developer</h3>
 
+<p align="center">
+💻 I build scalable applications using <b>Node.js, AWS, Serverless and React</b>.<br/>
+🚀 I enjoy solving complex backend problems and deploying resilient systems in the cloud.<br/>
+📍 Currently working in fintech and exploring better ways to design microservice architectures.
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔗 Connect with me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://eduardo-salinas.com/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salinas-eduardo/)
-<!-- [![eduardo-salinas.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salinas-eduardo)
 
-
+---
 
 ### 🛠️ Languages and Tools:
 
@@ -31,3 +37,7 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+📌 _“Always building. Always learning.”_
